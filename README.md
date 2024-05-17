@@ -17,8 +17,8 @@ The directory structure is shown below:
       - codeLinks.txt
       - getCodeLink.py
       - getSourceCode.py
-  - process
-      - isApplyingPDC.py
+    - process
+        - isApplyingPDC.py
 
 ---
 
