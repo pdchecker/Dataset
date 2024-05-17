@@ -6,19 +6,19 @@
 The directory structure is shown below:
 
   Dataset
-  ├── README.md
-  ├── chaincode
-  ├── results
-  │   ├── codeInfo.xlsx
-  │   ├── detectionOutput
-  │   └── stackoverflowQA.xlsx
-  └── script
-      ├── crawler
-      │   ├── codeLinks.txt
-      │   ├── getCodeLink.py
-      │   └── getSourceCode.py
-      └── process
-          └── isApplyingPDC.py
+  - README.md
+  - chaincode
+  - results
+    - codeInfo.xlsx
+    - detectionOutput
+    - stackoverflowQA.xlsx
+  - script
+    - crawler
+      - codeLinks.txt
+      - getCodeLink.py
+      - getSourceCode.py
+  - process
+      - isApplyingPDC.py
 
 ---
 
