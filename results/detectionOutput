@@ -1,0 +1,1268 @@
+806.go
+  (120, 6)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+488.go
+  (90, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (90, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1878.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+992.go
+  (103, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1992.go
+  (195, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (207, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+886.go
+  (138, 34)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (138, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (138, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1625.go
+  (79, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (170, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1134.go
+  (90, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (99, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (101, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+230.go
+  (47, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+821.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+960.go
+  (186, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (385, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (331, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (347, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+683.go
+  (76, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (132, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+178.go
+  (87, 11)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (180, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1977.go
+  (133, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (147, 14)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (129, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+814.go
+  (112, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (139, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (166, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (193, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (288, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (318, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (354, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (223, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (241, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (246, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (279, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (288, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (309, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (318, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (340, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (354, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+888.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1411.go
+  (80, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (108, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1354.go
+  (231, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+377.go
+  (375, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (323, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (338, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+1357.go
+  (80, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (89, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (89, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (189, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (200, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (200, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1551.go
+  (123, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (202, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (238, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (275, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (268, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (276, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1179.go
+  (74, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (170, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1586.go
+  (62, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (71, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (80, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (229, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (229, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1450.go
+  (104, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1578.go
+  (104, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1877.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+890.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+889.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1254.go
+  (231, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+625.go
+  (175, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (309, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (384, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1701.go
+  (492, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (502, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+130.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1945.go
+  (89, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (98, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (100, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1418.go
+  (212, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (432, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (173, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (272, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (272, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (272, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (272, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (437, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (437, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (437, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (437, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+329.go
+  (349, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (297, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (313, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+552.go
+  (17, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1771.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (214, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (290, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (309, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (317, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (446, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (460, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (529, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+400.go
+  (101, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (211, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (287, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (306, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (314, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (443, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (457, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (526, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+715.go
+  (337, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (285, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (301, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+1937.go
+  (107, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1432.go
+  (130, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (147, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1330.go
+  (582, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (600, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (244, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (275, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (311, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (328, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (586, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (604, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1822.go
+  (107, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1353.go
+  (231, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+410.go
+  (104, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1327.go
+  (582, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (600, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (244, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (275, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (311, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (328, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (586, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (604, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+283.go
+  (87, 11)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (180, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1835.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+45.go
+  (569, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (176, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (310, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (385, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (567, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (571, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (574, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1171.go
+  (101, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (101, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1938.go
+  (240, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+623.go
+  (175, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (309, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (384, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1458.go
+  (101, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (211, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (287, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (306, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (314, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (443, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (457, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (526, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1713.go
+  (77, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (195, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (207, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (207, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1021.go
+  (67, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (67, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1780.go
+  (85, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (94, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (94, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (200, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1065.go
+  (90, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (99, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+360.go
+  (147, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+458.go
+  (101, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (211, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (287, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (306, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (314, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (443, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (457, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (526, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+972.go
+  (65, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (119, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1752.go
+  (47, 13)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (78, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (123, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (148, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (192, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (236, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (259, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (286, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1936.go
+  (107, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1056.go
+  (90, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (99, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (101, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1934.go
+  (107, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+508.go
+  (212, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (432, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (118, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (173, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (272, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (272, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (272, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (272, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (437, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (437, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (437, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (437, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1415.go
+  (121, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (194, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (134, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1637.go
+  (123, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (202, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (238, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (275, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (268, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (276, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1870.go
+  (77, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (195, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (207, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (207, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1460.go
+  (147, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1916.go
+  (289, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (291, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (293, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+428.go
+  (174, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (382, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+649.go
+  (101, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (133, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+485.go
+  (254, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (303, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (668, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (689, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (728, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (772, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (796, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (841, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (882, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (925, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (950, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1008, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (139, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (213, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (216, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (575, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (629, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (647, 6)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (713, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (752, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (756, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (781, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (821, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (825, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (864, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (867, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (905, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (909, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (934, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (974, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (158, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (158, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (166, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (166, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (166, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (534, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (550, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+1476.go
+  (62, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (71, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (80, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (229, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (229, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1981.go
+  (94, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (150, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (58, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (154, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1635.go
+  (123, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (202, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (238, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (275, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (268, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (276, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1136.go
+  (90, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (99, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (101, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1739.go
+  (252, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1834.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+165.go
+  (144, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (352, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (386, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (420, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (598, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (819, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (853, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (887, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1083, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1117, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1150, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1327, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1362, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1557, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1586, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (134, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (342, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (364, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (374, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (377, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (398, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (401, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (411, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (587, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (809, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (831, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (841, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (844, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (865, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (868, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (878, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1073, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1095, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1105, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1108, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1129, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1132, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1141, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1317, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1339, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1349, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1353, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1548, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1569, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1576, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (120, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (144, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (273, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (333, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (352, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (386, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (420, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (574, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (598, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (708, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (740, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (800, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (819, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (853, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (887, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1009, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1041, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1067, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1083, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1117, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1150, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1257, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1285, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1311, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1327, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1362, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1488, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1518, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1542, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1557, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1586, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+1879.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+514.go
+  (121, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (194, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (134, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1295.go
+  (91, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (180, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (216, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (290, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (186, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (210, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (221, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (221, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1927.go
+  (234, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (240, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+258.go
+  (128, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (261, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (293, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1816.go
+  (234, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (240, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1176.go
+  (106, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (166, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (106, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (166, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1660.go
+  (101, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (133, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1769.go
+  (620, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (638, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (217, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (249, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (280, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (333, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (624, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (642, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1939.go
+  (240, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1805.go
+  (86, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (116, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (160, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (173, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (195, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (241, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (256, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1355.go
+  (231, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1984.go
+  (406, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (455, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (465, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+958.go
+  (99, 34)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (99, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (99, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1746.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (590, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+742.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (214, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (290, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (309, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (317, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (446, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (460, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (529, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1329.go
+  (582, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (600, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (244, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (275, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (311, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (328, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (586, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (604, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+584.go
+  (370, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (318, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (334, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+545.go
+  (86, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (116, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (160, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (173, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (195, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (241, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (256, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1636.go
+  (123, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (202, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (238, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (275, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (268, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (276, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+705.go
+  (492, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (502, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+994.go
+  (439, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (460, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (144, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (146, 12)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (518, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (520, 12)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (630, 13)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (630, 46)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (163, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (530, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (652, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (823, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (837, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+1580.go
+  (101, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (211, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (287, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (306, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (314, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (443, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (457, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (526, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+64.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1700.go
+  (580, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (598, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (210, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (242, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (273, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (309, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (326, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (584, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (602, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+553.go
+  (175, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (309, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (384, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1638.go
+  (123, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (202, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (238, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (275, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (268, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (276, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1226.go
+  (73, 6)  https://revive.run/r#chaincode-privacy-br  Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (79, 6)  https://revive.run/r#chaincode-privacy-br  Private data applied to the branch condition, please check whether privacy leakage will occur.  
+
+1673.go
+  (542, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (542, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+487.go
+  (80, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (108, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1227.go
+  (582, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (600, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (244, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (275, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (311, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (328, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (586, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (604, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+457.go
+  (101, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (211, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (287, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (306, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (314, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (443, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (457, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (526, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1579.go
+  (101, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (211, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (287, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (306, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (314, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (443, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (457, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (526, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1198.go
+  (128, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (261, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (293, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+725.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (596, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1941.go
+  (240, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1252.go
+  (47, 13)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (78, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (123, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (148, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (192, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (236, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (259, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (286, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1356.go
+  (80, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (89, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (89, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (189, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (200, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (200, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+927.go
+  (88, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1256.go
+  (80, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (89, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (89, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (189, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (200, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (200, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+129.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+808.go
+  (36, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (40, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (64, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (79, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (103, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (137, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (141, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (165, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (202, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (197, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+
+974.go
+  (157, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (176, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (181, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (187, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (190, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (196, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (199, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (202, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (207, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (210, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (218, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (221, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (224, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (229, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (232, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (235, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (241, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (246, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (257, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (262, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (273, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (278, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (306, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1823.go
+  (240, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+412.go
+  (74, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (170, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1791.go
+  (91, 3)    https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (105, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (104, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (104, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (105, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1058.go
+  (753, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (279, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (145, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (165, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (252, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+1648.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1223.go
+  (598, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (616, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (227, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (259, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (290, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (326, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (343, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (602, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (620, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1258.go
+  (137, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (137, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1352.go
+  (231, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+819.go
+  (138, 34)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (138, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (138, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+624.go
+  (175, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (309, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (384, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1261.go
+  (135, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (153, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+127.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+128.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1425.go
+  (65, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+462.go
+  (104, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1194.go
+  (144, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (352, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (386, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (420, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (598, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (819, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (853, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (887, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1083, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1117, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1150, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1327, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1362, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1557, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (1586, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.               
+  (134, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (342, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (364, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (374, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (377, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (398, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (401, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (411, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (587, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (809, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (831, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (841, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (844, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (865, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (868, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (878, 5)   https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1073, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1095, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1105, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1108, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1129, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1132, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1141, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1317, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1339, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1349, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1353, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1548, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1569, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (1576, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (120, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (144, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (273, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (333, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (352, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (386, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (420, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (574, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (598, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (708, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (740, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (800, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (819, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (853, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (887, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1009, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1041, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1067, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1083, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1117, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1150, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1257, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1285, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1311, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1327, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1362, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1488, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1518, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1542, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1557, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (1586, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+1833.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1711.go
+  (582, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (600, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (244, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (275, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (311, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (328, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (586, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (604, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1169.go
+  (91, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+622.go
+  (175, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (309, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (384, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+887.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1979.go
+  (157, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (176, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (181, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (187, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (190, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (196, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (199, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (202, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (207, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (210, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (218, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (221, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (224, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (229, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (232, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (235, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (241, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (246, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (257, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (262, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (273, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (278, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (306, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1728.go
+  (519, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (536, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+839.go
+  (94, 8)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (150, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (58, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (154, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+981.go
+  (279, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (416, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (426, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (461, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (526, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+223.go
+  (58, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (94, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1135.go
+  (90, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (99, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (101, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+783.go
+  (113, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (224, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (300, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (319, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (327, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (456, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (470, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (601, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+190.go
+  (91, 9)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (180, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (216, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (290, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (186, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (210, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (221, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (221, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1935.go
+  (107, 12)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1708.go
+  (22, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1940.go
+  (240, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1012.go
+  (87, 12)   https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (100, 14)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1467.go
+  (94, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1006.go
+  (137, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1540.go
+  (79, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (170, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1880.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1906.go
+  (85, 4)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (94, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (94, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (200, 4)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1351.go
+  (47, 13)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (78, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (123, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (148, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (192, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (236, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (259, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (286, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+365.go
+  (343, 5)  https://revive.run/r#chaincode-privacy-br   Private data applied to the branch condition, please check whether privacy leakage will occur.  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+  (305, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only                        
+
+1729.go
+  (102, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (213, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (289, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (308, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (316, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (445, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (459, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+  (528, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only  
+
+1133.go
+  (90, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (99, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (101, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1328.go
+  (582, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (600, 9)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (212, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (244, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (275, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (311, 3)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (328, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (586, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (604, 2)  https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1270.go
+  (83, 10)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (92, 3)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+  (94, 2)   https://revive.run/r#chaincode-privacy-ret  Privacy leakage in return. The query of private data should be read-only           
+
+1832.go
+  (501, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (511, 8)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+1802.go
+  (289, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (291, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+  (293, 11)  https://revive.run/r#chaincode-privacy-arg  Privacy leakage in arguments. The private data should be passed via GetTransient.  
+
+
+ ✖ 928 problems (0 errors) (928 warnings)
